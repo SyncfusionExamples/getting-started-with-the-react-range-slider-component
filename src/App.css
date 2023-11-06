@@ -1,0 +1,13 @@
+@import "../node_modules/@syncfusion/ej2-base/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-buttons/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-popups/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-react-inputs/styles/material.css";
+.App{
+  padding-top: 40px;
+}
+
+/* .e-control-wrapper.e-slider-container .e-slider .e-handle {
+  background-color: #f9920b;
+  border-radius: 50%;
+  border: 0;
+} */
