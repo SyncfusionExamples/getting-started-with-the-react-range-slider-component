@@ -21,7 +21,7 @@ The Slider value can be changed by using the Increase and Decrease buttons. In R
 
 ## Related links
 [Learn More about React Range Slider](https://www.syncfusion.com/react-components/react-slider?utm_source=github&utm_medium=listing&utm_campaign=react-range-slider-github-samples)
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=react-range-slider-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-range-slider-github-samples)
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-range-slider-github-samples)
 [Documentation](https://ej2.syncfusion.com/react/documentation/range-slider/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-range-slider-github-samples)
 [View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-react-range-slider-component?utm_source=github&utm_medium=listing&utm_campaign=react-range-slider-github-samples)
